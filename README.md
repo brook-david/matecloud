@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.mate.vip/matecloud.svg" width="260">
+  <img src="https://gitee.com/matevip/matecloud/raw/dev/doc/images/artemis_page1.png" width="260">
 </p>
 <p align="center">
   <img src='https://img.shields.io/github/license/matevip/matecloud' alt='License'/>
@@ -208,7 +208,6 @@ matecloud -- 父项目,各模块分离，方便集成和微服务
 ## ✨ 特别鸣谢
 特别感谢卢神对`MateCloud`项目提供的技术支持！
 - 卢春梦: [mica](https://gitee.com/596392912/mica)  
-- chuzhixin: [vue-admin-beautiful](https://github.com/chuzhixin/vue-admin-beautiful)
 - anncwb: [vue-vben-admin](https://github.com/anncwb/vue-vben-admin)
 ## 📚 开源项目推荐
 - [SpringBoot脚手架](https://gitee.com/bdj/SpringBoot_v2)
