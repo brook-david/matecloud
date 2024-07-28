@@ -16,9 +16,9 @@ MateCloud是一款基于Spring Cloud Alibaba的微服务架构。旨在为大家
 ## 🎨 系统演示
 ### 👉 单体版演示地址：https://demo.mate.vip/boot
 
-账号 | 密码| 操作权限
+账号 | 密码| 项目地址
 ---|---|---
-admin | matecloud| mate-system模块不能执行增删改请求
+admin | matecloud| https://gitee.com/matevip/mateboot
 
 ### 👉 微服务版演示地址：https://demo.mate.vip/cloud
 
