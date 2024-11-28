@@ -31,7 +31,7 @@ import org.springframework.core.io.support.SpringFactoriesLoader;
 import org.springframework.core.type.AnnotationMetadata;
 import org.springframework.lang.Nullable;
 import org.springframework.util.StringUtils;
-import vip.mate.core.feign.config.MateFeignAutoConfiguration;
+import com.mate.core.feign.config.MateFeignAutoConfiguration;
 
 import java.util.List;
 import java.util.Map;

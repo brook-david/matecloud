@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.sentinel.config.SentinelConfiguration
+  com.mate.core.sentinel.config.SentinelConfiguration
 
 

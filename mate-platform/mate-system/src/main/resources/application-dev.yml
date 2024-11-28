@@ -11,7 +11,7 @@ spring:
 
 dubbo:
   scan:
-    base-packages: vip.mate.system.feign
+    base-packages: com.mate.system.feign
   protocols:
     dubbo:
       name: dubbo

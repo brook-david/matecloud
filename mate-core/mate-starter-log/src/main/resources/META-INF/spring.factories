@@ -1,5 +1,5 @@
 org.springframework.context.ApplicationContextInitializer=\
-  vip.mate.core.log.config.TransmitLocalMDCInitializer
+  com.mate.core.log.config.TransmitLocalMDCInitializer
 
 
 

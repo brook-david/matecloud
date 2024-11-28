@@ -1,2 +1,2 @@
-vip.mate.core.gray.config.GrayConfig
-vip.mate.core.gray.context.VersionContextHolderFilter
+com.mate.core.gray.config.GrayConfig
+com.mate.core.gray.context.VersionContextHolderFilter

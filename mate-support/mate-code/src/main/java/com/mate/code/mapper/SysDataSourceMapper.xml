@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mate.code.mapper.SysDataSourceMapper">
+
+    <resultMap id="mapperNodeResultMap" type="com.mate.core.common.vo.BaseListVO">
+        <id column="id" property="key"/>
+        <result column="name" property="title"/>
+    </resultMap>
+
+    <select id="optionList" resultMap="mapperNodeResultMap">
+        select id, name
+        from mate_sys_data_source
+        where is_deleted = 0
+    </select>
+</mapper>

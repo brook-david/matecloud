@@ -100,10 +100,10 @@
         <appender-ref ref="audit_log"/>
     </appender>
 
-    <logger name="vip.mate.core.log.util" level="debug" addtivity="false">
+    <logger name="com.mate.core.log.util" level="debug" addtivity="false">
         <appender-ref ref="track_log_async"/>
     </logger>
-    <logger name="vip.mate.system.service.impl.SysLogServiceImpl" level="debug" addtivity="false">
+    <logger name="com.mate.system.service.impl.SysLogServiceImpl" level="debug" addtivity="false">
         <appender-ref ref="audit_log_async"/>
     </logger>
 
@@ -116,7 +116,7 @@
     <logger name="org.hibernate.validator.internal.util.Version" level="off" />
 
     <!--可以输出项目中的debug日志，包括mybatis的sql日志-->
-    <logger name="vip.mate.**.mapper" level="INFO" />
+    <logger name="com.mate.**.mapper" level="INFO" />
 
     <springProfile name="local,dev,test,prod,docker">
         <root level="INFO">

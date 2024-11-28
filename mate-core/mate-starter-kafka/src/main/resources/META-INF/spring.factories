@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.kafka.config.KafkaConfiguration
+  com.mate.core.kafka.config.KafkaConfiguration
 
 

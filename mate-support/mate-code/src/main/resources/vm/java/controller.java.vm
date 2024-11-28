@@ -23,12 +23,12 @@ import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 import lombok.AllArgsConstructor;
 
-import vip.mate.core.auth.annotation.PreAuth;
-import vip.mate.core.common.api.Result;
-import vip.mate.core.database.entity.Search;
-import vip.mate.core.log.annotation.Log;
-import vip.mate.core.web.controller.BaseController;
-import vip.mate.core.web.util.CollectionUtil;
+import com.mate.core.auth.annotation.PreAuth;
+import com.mate.core.common.api.Result;
+import com.mate.core.database.entity.Search;
+import com.mate.core.log.annotation.Log;
+import com.mate.core.web.controller.BaseController;
+import com.mate.core.web.util.CollectionUtil;
 
 import org.springframework.web.bind.annotation.RestController;
 import ${packageName}.service.I${ClassName}Service;

@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.oss.config.OssConfiguration
+  com.mate.core.oss.config.OssConfiguration
 
 

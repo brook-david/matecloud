@@ -16,7 +16,7 @@
  */
 package ${package.ServiceImpl};
 
-import vip.mate.core.database.entity.Search;
+import com.mate.core.database.entity.Search;
 import ${package.Entity}.${entity};
 import ${package.Mapper}.${table.mapperName};
 import ${package.Service}.${table.serviceName};
@@ -24,8 +24,8 @@ import ${superServiceImplClassPackage};
 import org.springframework.stereotype.Service;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
-import vip.mate.core.common.util.StringUtil;
-import vip.mate.core.database.util.PageUtil;
+import com.mate.core.common.util.StringUtil;
+import com.mate.core.database.util.PageUtil;
 
 /**
  * <p>

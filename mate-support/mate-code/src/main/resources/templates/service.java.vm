@@ -19,7 +19,7 @@ package ${package.Service};
 import ${package.Entity}.${entity};
 import ${superServiceClassPackage};
 import com.baomidou.mybatisplus.core.metadata.IPage;
-import vip.mate.core.database.entity.Search;
+import com.mate.core.database.entity.Search;
 
 /**
  * <p>

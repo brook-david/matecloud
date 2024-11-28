@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.rocketmq.config.RocketMQConfiguration
+  com.mate.core.rocketmq.config.RocketMQConfiguration
 
 

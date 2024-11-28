@@ -155,11 +155,13 @@ matecloud -- 父项目,各模块分离，方便集成和微服务
 ```
 ## 🎨 核心模块提交至中央仓库
 如何引入依赖
+
 ```xml
+
 <dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-dependencies</artifactId>
             <version>4.6.8</version>
             <type>pom</type>

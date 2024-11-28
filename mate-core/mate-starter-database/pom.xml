@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>mate-core</artifactId>
-        <groupId>vip.mate</groupId>
+        <groupId>com.mate</groupId>
         <version>4.7.8-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-common</artifactId>
         </dependency>
         <!--Mybatis-->
@@ -41,7 +41,7 @@
             <artifactId>spring-cloud-context</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-mybatis</artifactId>
         </dependency>
         <dependency>

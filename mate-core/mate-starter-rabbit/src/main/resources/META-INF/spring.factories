@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.rabbitmq.config.RabbitMQConfiguration
+  com.mate.core.rabbitmq.config.RabbitMQConfiguration
 
 

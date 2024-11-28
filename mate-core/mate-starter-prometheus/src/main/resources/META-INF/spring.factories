@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.prometheus.config.PrometheusConfiguration
+  com.mate.core.prometheus.config.PrometheusConfiguration
 
 

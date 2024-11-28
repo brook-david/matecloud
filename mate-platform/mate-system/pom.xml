@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>mate-platform</artifactId>
-        <groupId>vip.mate</groupId>
+        <groupId>com.mate</groupId>
         <version>4.7.8-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -13,40 +13,40 @@
 
     <dependencies>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-system-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-cloud</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-web</artifactId>
         </dependency>
         <!-- 此依赖加上后使用dubbo,注释后使用Feign -->
 <!--        <dependency>-->
-<!--            <groupId>vip.mate</groupId>-->
+<!--            <groupId>com.mate</groupId>-->
 <!--            <artifactId>mate-starter-dubbo</artifactId>-->
 <!--        </dependency>-->
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-jetcache</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-file</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-log</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-rule</artifactId>
         </dependency>
         <dependency>
-            <groupId>vip.mate</groupId>
+            <groupId>com.mate</groupId>
             <artifactId>mate-starter-idempotent</artifactId>
         </dependency>
         <dependency>

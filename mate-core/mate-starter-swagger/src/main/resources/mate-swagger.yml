@@ -18,7 +18,7 @@ springdoc:
         url: apache
       contact:
         name: 自在即不同
-        url: https:/mate.vip/
+        url: https:/mate.com/
         email: 7333791@qq.com
     security-schemes:
       oauth2:

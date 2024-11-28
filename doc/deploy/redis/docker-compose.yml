@@ -2,7 +2,7 @@ version: '1.3'
 services:
   redis:
     image: redis
-    container_name: redis
+    container_name: mate-redis
     hostname: redis
     restart: always
     ports:

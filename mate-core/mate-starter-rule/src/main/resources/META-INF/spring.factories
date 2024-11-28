@@ -1,4 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  vip.mate.core.rule.config.RuleConfiguration
+  com.mate.core.rule.config.RuleConfiguration
 
 

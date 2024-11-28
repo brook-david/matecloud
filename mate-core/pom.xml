@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>mate-core</artifactId>
-    <groupId>vip.mate</groupId>
+    <groupId>com.mate</groupId>
     <version>4.7.8-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>mate-core</name>
@@ -82,7 +82,7 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>vip.mate</groupId>
+                <groupId>com.mate</groupId>
                 <artifactId>mate-starter-dependencies</artifactId>
                 <version>${matecloud.core.version}</version>
                 <type>pom</type>
