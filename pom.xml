@@ -135,12 +135,12 @@
                                 <goal>run</goal>
                             </goals>
                             <configuration>
-                                <tasks>
+                                <target>
                                     <!--suppress UnresolvedMavenProperty -->
                                     <copy overwrite="true"
                                           tofile="${session.executionRootDirectory}/target/${project.artifactId}.jar"
                                           file="${project.build.directory}/${project.artifactId}.jar" />
-                                </tasks>
+                                </target>
                             </configuration>
                         </execution>
                     </executions>

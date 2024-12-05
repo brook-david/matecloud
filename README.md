@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Spring%20Cloud%20Alibaba-2021.0.5.0-brightgreen" alt="Spring Cloud Alibaba"/>
 </p>
 
+
+### maven 3.0.0以上
+### java 11
+
 ## 🍟 如果您觉得有帮助，请点右上角 "Star" 支持一下谢谢
 
 MateCloud是一款基于Spring Cloud Alibaba的微服务架构。旨在为大家提供技术框架的基础能力的封装，减少开发工作，让您只关注业务。

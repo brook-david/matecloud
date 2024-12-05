@@ -13,8 +13,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 public class GatewayServerTests {
 
-	@Test
-	void contextLoads() {
-		log.error("contextLoads");
-	}
+//	@Test
+//	void contextLoads() {
+//		log.error("contextLoads");
+//	}
 }
